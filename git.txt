@@ -1,0 +1,9 @@
+git  init to initialize git
+git add to add to staging area
+git commit to add to local repository
+git status to see files not added
+git log too see chnages
+git diff file name to see difference between current and previous version
+git checkoot filename to roll back to previous version
+git rm --cached -r .  to remove all files from staging area
+inside .gitignore if we write *.txt then all text files will be ignored
